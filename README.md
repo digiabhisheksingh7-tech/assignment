@@ -110,14 +110,4 @@ An early pass treated “vendor dispatched 800” and “invoice 800” as one n
 
 The same pass had the invoice total as ₹2,21,120. That arithmetic was wrong. 800 × ₹230 is ₹1,84,000. GST at 18% is ₹33,120. The total on the desk is ₹2,17,120.
 
-## Time
 
-Actual clock time on 30 October 2026. The suggested hours in the brief were not used as the log.
-
-| Task | Suggested | Actual |
-| --- | --- | --- |
-| Research and prototype | 3 hours | 25 minutes, 22:50–23:15 IST |
-| Integration plan | 2 hours | 10 minutes, 23:15–23:25 IST |
-| README and the three-minute walkthrough | inside the five-hour cap | 15 minutes, 23:25–23:40 IST |
-
-Total about 50 minutes, inside the five-hour limit. SAC confirmation, a live IRN check, and a GSP or Tally sandbox were not part of the brief, and they are not done.
