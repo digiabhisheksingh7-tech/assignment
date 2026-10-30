@@ -1,0 +1,16 @@
+{
+  "updateId": "VU-METTHERM-2026-10-28-001",
+  "type": "dispatch",
+  "vendorCode": "METTHERM",
+  "vendorName": "Mettherm Heat Treat",
+  "jobRef": "HT-2026-0142",
+  "challanNo": "MT/OUT/26-3391",
+  "dispatchedQty": 1000,
+  "crateSize": 20,
+  "cratesClaimed": "C-01 to C-50",
+  "dispatchAt": "2026-10-28T17:40:00+05:30",
+  "heatBatch": "HB-7721",
+  "vehicle": "MH14AB2291",
+  "lrNo": "SL-55281",
+  "note": "Corrected dispatch quantity to 1000 pieces. This copy reuses the same update id."
+}

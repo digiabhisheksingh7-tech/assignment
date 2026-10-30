@@ -1,0 +1,11 @@
+{
+  "updateId": "VU-METTHERM-2026-10-30-002",
+  "type": "balance_eta",
+  "vendorCode": "METTHERM",
+  "vendorName": "Mettherm Heat Treat",
+  "jobRef": "HT-2026-0142",
+  "balanceQty": 200,
+  "plannedDispatchAt": "2026-10-31T18:00:00+05:30",
+  "cratesRemaining": "C-41 to C-50",
+  "note": "Balance 200 pieces are still in process. Planned dispatch is 31 Oct 2026, 18:00 IST. This message does not change the earlier dispatch of 800."
+}

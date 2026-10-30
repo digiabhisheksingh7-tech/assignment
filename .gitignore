@@ -1,0 +1,9 @@
+node_modules/
+.walkthrough-tools/
+docs/video-raw/
+docs/narration.wav
+dist/
+backend/data/state.json
+backend/data/*.tmp
+*.log
+.DS_Store
